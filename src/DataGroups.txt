@@ -1,0 +1,5 @@
+{"idGroup":0,"groupName":"group1","idListStudentsInGroup":[2,1]}
+{"idGroup":1,"groupName":"group2","idListStudentsInGroup":[0,3]}
+{"idGroup":2,"groupName":"group3","idListStudentsInGroup":[4,5]}
+{"idGroup":3,"groupName":"group4","idListStudentsInGroup":[6,7,10]}
+{"idGroup":4,"groupName":"group5","idListStudentsInGroup":[8,9]}

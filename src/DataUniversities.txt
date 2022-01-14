@@ -1,0 +1,3 @@
+{"idUniversity":0,"nameUniversity":"university1","listIdGroupsInUniversity":[0,2]}
+{"idUniversity":1,"nameUniversity":"university2","listIdGroupsInUniversity":[1,4]}
+{"idUniversity":2,"nameUniversity":"university3","listIdGroupsInUniversity":[2,3]}
